@@ -1,0 +1,5 @@
+GitHubForAssignments text file
+
+I have some experience with using the command line on my MacBook to perform 
+basic gitHub functions and navigations. I think that I like the workflow 
+of using the command line since the bash commands are easy to forget when youaren't using them frequently. I think the simplicity of git clone, git add, git commit and git push work well and help me feel like I know what I am doing without the added buffer of a program. That being said, the need to complete all those steps instead of performing an inclusive "sync" opens me up to errors of inattention so I might try both and see which one works best for the coursework in the future.
